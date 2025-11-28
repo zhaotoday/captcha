@@ -9,6 +9,7 @@
 - [使用前端技术破解掘金滑块验证码](https://juejin.cn/post/7257386139849801789)
 
 #### 开源
+- [spiders](https://github.com/selfshore/spiders)
 - [tianai-captcha](https://github.com/dromara/tianai-captcha)
 - [captcha](https://github.com/anji-plus/captcha)
 - [ddddocr](https://github.com/sml2h3/ddddocr)
